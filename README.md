@@ -7,9 +7,7 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 Some details:
 
-* I will use Python to solve these. Why? Because I want to learn the language quickly.
-* I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
+* I will use Rust to solve these. Why? Because I want to learn the language quickly.
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
@@ -54,7 +52,7 @@ Numbers
 Text
 ---------
 
-**Reverse a String** – Enter a string and the program will reverse it and print it out.
+**[Reverse a String](https://github.com/fdovero/Projects/blob/master/Text/reverse.rs)** – Enter a string and the program will reverse it and print it out.
 
 **Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
